@@ -12,8 +12,7 @@ Install Solana CLI: Follow the instructions at docs.solana.com.
 Install Anchor: Follow the instructions at project-serum.github.io.
 Build and Deploy
 1. Clone the repository:
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/ItzDhruv/Staking-pool---solana-smart-contract.git
 2. Build the program:
 anchor build
 3. Deploy the program:
